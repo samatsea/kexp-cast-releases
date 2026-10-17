@@ -5,6 +5,19 @@
     <link>https://github.com/samatsea/kexp-cast-releases</link>
     <description>Updates for KEXP Cast</description>
     <item>
+      <title>KEXP Cast 0.2.2</title>
+      <link>https://github.com/samatsea/kexp-cast-releases/releases/tag/v0.2.2</link>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Sat, 17 Oct 2026 23:29:46 GMT</pubDate>
+      <description>&lt;ul&gt;
+&lt;li&gt;Fix:** the update banner’s buttons (Download, Restart to update, ✕) didn’t respond to clicks — the album-art backdrop below was catching them.&lt;/li&gt;
+&lt;li&gt;“Check for updates” now always says what happened. If you’re on 0.2.0 or 0.2.1: this update downloads by itself within a day and installs when you quit KEXP Cast.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/samatsea/kexp-cast-releases/releases/download/v0.2.2/KEXP-Cast-0.2.2.zip" sparkle:edSignature="o/fYYU3oLqJNk1Tn5VpBnnCLWxX5sEZ/QjfwiyMSH67izv+j0AejN+cMCe25061VTU4NurbLd4U+S20jJreRCQ==" length="3372518" type="application/octet-stream" />
+    </item>
+    <item>
       <title>KEXP Cast 0.2.1</title>
       <link>https://github.com/samatsea/kexp-cast-releases/releases/tag/v0.2.1</link>
       <sparkle:version>4</sparkle:version>

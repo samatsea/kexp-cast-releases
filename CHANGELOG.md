@@ -3,6 +3,15 @@
 Versions follow MAJOR.MINOR.PATCH. Each release also has a build number that
 only goes up; that's what the updater compares.
 
+## 0.2.2 — 2026-10-17
+
+- **Fix:** the update banner’s buttons (Download, Restart to update, ✕) didn’t
+  respond to clicks — the album-art backdrop below was catching them.
+- “Check for updates” now always says what happened.
+
+If you’re on 0.2.0 or 0.2.1: this update downloads by itself within a day and
+installs when you quit KEXP Cast.
+
 ## 0.2.1 — 2026-10-17
 
 - **Fix:** with the player popped out into its own window, clicking the menu bar
