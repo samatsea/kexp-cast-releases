@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>KEXP Cast</title>
+    <link>https://github.com/samatsea/kexp-cast-releases</link>
+    <description>Updates for KEXP Cast</description>
+    <item>
+      <title>KEXP Cast 0.2.0</title>
+      <link>https://github.com/samatsea/kexp-cast-releases/releases/tag/v0.2.0</link>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Sat, 17 Oct 2026 22:54:04 GMT</pubDate>
+      <description>&lt;ul&gt;
+&lt;li&gt;New name:** KEXP Bar is now KEXP Cast. Your settings, stars and speakers carry over.&lt;/li&gt;
+&lt;li&gt;Automatic updates:** new versions download in the background. A banner at the top of the app says when one is ready; click “Restart to update” or just let it install the next time the app quits. Settings has “Check for updates” and an option to be asked before downloading.&lt;/li&gt;
+&lt;li&gt;Menu bar:** the KEXP wordmark when idle; while playing, the four logo bars move with the music (timed to what your speakers are actually playing).&lt;/li&gt;
+&lt;li&gt;Pop-out window:** open the player in its own window from the top-right button; close it or press the pop-in button to put it back in the menu bar.&lt;/li&gt;
+&lt;li&gt;Speakers:** archive shows stream reliably to MusicCast (a minute buffered on the Mac, reconnects without repeating), clean handovers every 3 hours, and both speakers are found right after launch.&lt;/li&gt;
+&lt;li&gt;New app icon from KEXP’s logo; roomier day picker in the Archive.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/samatsea/kexp-cast-releases/releases/download/v0.2.0/KEXP-Cast-0.2.0.zip" sparkle:edSignature="9/w17FyeKDJdoYEmQCNinYuj+dKxx1N2BXrBEl1jGKz0C9D8J6fCyOiHu9NRrwV0z4SByhSdLNg/NfrITGozAw==" length="3346817" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
