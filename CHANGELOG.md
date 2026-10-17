@@ -3,6 +3,13 @@
 Versions follow MAJOR.MINOR.PATCH. Each release also has a build number that
 only goes up; that's what the updater compares.
 
+## 0.2.1 — 2026-10-17
+
+- **Fix:** with the player popped out into its own window, clicking the menu bar
+  icon showed the small “popped out” card floating inside a large empty window.
+  The menu now fits the card (and goes back to full size when you pop back in).
+- First update delivered through the new automatic updater.
+
 ## 0.2.0 — 2026-10-17
 
 - **New name:** KEXP Bar is now KEXP Cast. Your settings, stars and speakers carry over.
