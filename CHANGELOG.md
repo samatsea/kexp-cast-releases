@@ -3,6 +3,15 @@
 Versions follow MAJOR.MINOR.PATCH. Each release also has a build number that
 only goes up; that's what the updater compares.
 
+## 0.3.0 — 2026-10-17
+
+- **New player layout:** volume, speaker picker, settings and pop-out now sit in
+  the header. The current show (with Go live / From the top) is above the song,
+  the song sits in its own card, and the playback controls are centred.
+- **DJ notes moved to the feed:** click the quote button on any song to read its
+  note. The player no longer grows and shrinks with long notes.
+- The feed starts right under the tabs, and Settings opens from the gear.
+
 ## 0.2.2 — 2026-10-17
 
 - **Fix:** the update banner’s buttons (Download, Restart to update, ✕) didn’t

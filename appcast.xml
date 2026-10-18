@@ -5,6 +5,20 @@
     <link>https://github.com/samatsea/kexp-cast-releases</link>
     <description>Updates for KEXP Cast</description>
     <item>
+      <title>KEXP Cast 0.3.0</title>
+      <link>https://github.com/samatsea/kexp-cast-releases/releases/tag/v0.3.0</link>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Sun, 18 Oct 2026 00:16:24 GMT</pubDate>
+      <description>&lt;ul&gt;
+&lt;li&gt;New player layout:** volume, speaker picker, settings and pop-out now sit in the header. The current show (with Go live / From the top) is above the song, the song sits in its own card, and the playback controls are centred.&lt;/li&gt;
+&lt;li&gt;DJ notes moved to the feed:** click the quote button on any song to read its note. The player no longer grows and shrinks with long notes.&lt;/li&gt;
+&lt;li&gt;The feed starts right under the tabs, and Settings opens from the gear.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/samatsea/kexp-cast-releases/releases/download/v0.3.0/KEXP-Cast-0.3.0.zip" sparkle:edSignature="rwYMkfg7rvTc+/nHoy+07NWZp/ltbYbtEdvjycnKQvewagwN9pVpjOFXWmIQ1zIWeUC4fRY0wCD4Bnlo420DBA==" length="3353190" type="application/octet-stream" />
+    </item>
+    <item>
       <title>KEXP Cast 0.2.2</title>
       <link>https://github.com/samatsea/kexp-cast-releases/releases/tag/v0.2.2</link>
       <sparkle:version>5</sparkle:version>
