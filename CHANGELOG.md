@@ -3,6 +3,15 @@
 Versions follow MAJOR.MINOR.PATCH. Each release also has a build number that
 only goes up; that's what the updater compares.
 
+## 0.4.0 — 2026-10-17
+
+- **Sonos:** KEXP Cast now plays on Sonos speakers as well as MusicCast. Pick a
+  room (or several, to play them in sync) from the speaker menu — live or any
+  archive show. Stereo pairs and subs show up as one room, Sonos volume works
+  from the app, and the menu bar bars stay in time with the speaker.
+- The speaker menu lists Sonos and MusicCast rooms separately. Rooms only sync
+  within one brand, so picking the other kind switches over.
+
 ## 0.3.0 — 2026-10-17
 
 - **New player layout:** volume, speaker picker, settings and pop-out now sit in
