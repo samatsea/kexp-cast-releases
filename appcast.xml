@@ -5,6 +5,18 @@
     <link>https://github.com/samatsea/kexp-cast-releases</link>
     <description>Updates for KEXP Cast</description>
     <item>
+      <title>KEXP Cast 0.4.3</title>
+      <link>https://github.com/samatsea/kexp-cast-releases/releases/tag/v0.4.3</link>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 19 Oct 2026 04:31:46 GMT</pubDate>
+      <description>&lt;ul&gt;
+&lt;li&gt;Easier-to-see volume control:** a white knob, KEXP-yellow fill and brighter speaker icons, so it stands out over bright album art.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/samatsea/kexp-cast-releases/releases/download/v0.4.3/KEXP-Cast-0.4.3.zip" sparkle:edSignature="4KKCyJ5HIJJnGZ0QKSTf7DEr/+4Ek3eARitGPLC0l1nQp6lW4VtRvxDK7EA3jCwv1xmvC96a8QUWpRwwRYJjDw==" length="3534011" type="application/octet-stream" />
+    </item>
+    <item>
       <title>KEXP Cast 0.4.2</title>
       <link>https://github.com/samatsea/kexp-cast-releases/releases/tag/v0.4.2</link>
       <sparkle:version>9</sparkle:version>

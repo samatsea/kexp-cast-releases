@@ -3,6 +3,11 @@
 Versions follow MAJOR.MINOR.PATCH. Each release also has a build number that
 only goes up; that's what the updater compares.
 
+## 0.4.3 — 2026-10-18
+
+- **Easier-to-see volume control:** a white knob, KEXP-yellow fill and brighter
+  speaker icons, so it stands out over bright album art.
+
 ## 0.4.2 — 2026-10-18
 
 - A little breathing room at the top of the feed, so the newest song doesn’t
