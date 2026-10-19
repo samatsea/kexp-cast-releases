@@ -5,6 +5,19 @@
     <link>https://github.com/samatsea/kexp-cast-releases</link>
     <description>Updates for KEXP Cast</description>
     <item>
+      <title>KEXP Cast 0.4.2</title>
+      <link>https://github.com/samatsea/kexp-cast-releases/releases/tag/v0.4.2</link>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 19 Oct 2026 04:27:23 GMT</pubDate>
+      <description>&lt;ul&gt;
+&lt;li&gt;A little breathing room at the top of the feed, so the newest song doesn’t touch the tab bar (it scrolls away as you scroll).&lt;/li&gt;
+&lt;li&gt;“Check for updates” now sees a new version the moment it’s published, instead of up to 5 minutes later.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/samatsea/kexp-cast-releases/releases/download/v0.4.2/KEXP-Cast-0.4.2.zip" sparkle:edSignature="EdaDKXU9XSnMIpz0G6lL897GF9CrixkLzA309u8bW1dYhoj2mI556qvVOY1ar1p8u9XNnNlGAKOP+RkvWHXNDA==" length="3511591" type="application/octet-stream" />
+    </item>
+    <item>
       <title>KEXP Cast 0.4.1</title>
       <link>https://github.com/samatsea/kexp-cast-releases/releases/tag/v0.4.1</link>
       <sparkle:version>8</sparkle:version>

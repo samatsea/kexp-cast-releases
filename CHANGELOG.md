@@ -3,6 +3,13 @@
 Versions follow MAJOR.MINOR.PATCH. Each release also has a build number that
 only goes up; that's what the updater compares.
 
+## 0.4.2 — 2026-10-18
+
+- A little breathing room at the top of the feed, so the newest song doesn’t
+  touch the tab bar (it scrolls away as you scroll).
+- “Check for updates” now sees a new version the moment it’s published, instead
+  of up to 5 minutes later.
+
 ## 0.4.1 — 2026-10-18
 
 - **Menu bar:** the icon is now KEXP’s four-bar logo mark all the time. When
