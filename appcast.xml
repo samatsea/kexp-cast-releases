@@ -5,6 +5,19 @@
     <link>https://github.com/samatsea/kexp-cast-releases</link>
     <description>Updates for KEXP Cast</description>
     <item>
+      <title>KEXP Cast 0.4.1</title>
+      <link>https://github.com/samatsea/kexp-cast-releases/releases/tag/v0.4.1</link>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 19 Oct 2026 01:34:24 GMT</pubDate>
+      <description>&lt;ul&gt;
+&lt;li&gt;Menu bar:** the icon is now KEXP’s four-bar logo mark all the time. When music plays, those same bars start moving with it, and settle back into the logo when you stop.&lt;/li&gt;
+&lt;li&gt;Speaker button:** now just the speaker icon and arrow; room names are in the menu (hover the button to see where it’s playing).&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/samatsea/kexp-cast-releases/releases/download/v0.4.1/KEXP-Cast-0.4.1.zip" sparkle:edSignature="WShf5ZT35Q6Ylum3BfrrVhi3zz3ypbJqQqVQaD8cneLrbKOZuMAOIb3hoCPTOy0llxiNFpBIwUMdWfHSX9wJBA==" length="3510331" type="application/octet-stream" />
+    </item>
+    <item>
       <title>KEXP Cast 0.4.0</title>
       <link>https://github.com/samatsea/kexp-cast-releases/releases/tag/v0.4.0</link>
       <sparkle:version>7</sparkle:version>

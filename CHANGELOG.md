@@ -3,6 +3,14 @@
 Versions follow MAJOR.MINOR.PATCH. Each release also has a build number that
 only goes up; that's what the updater compares.
 
+## 0.4.1 — 2026-10-18
+
+- **Menu bar:** the icon is now KEXP’s four-bar logo mark all the time. When
+  music plays, those same bars start moving with it, and settle back into the
+  logo when you stop.
+- **Speaker button:** now just the speaker icon and arrow; room names are in the menu
+  (hover the button to see where it’s playing).
+
 ## 0.4.0 — 2026-10-17
 
 - **Sonos:** KEXP Cast now plays on Sonos speakers as well as MusicCast. Pick a
