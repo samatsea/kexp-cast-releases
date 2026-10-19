@@ -10,9 +10,14 @@ checks. The source code lives elsewhere.
 
 ## Install
 
-1. Download the latest **KEXP-Cast-x.y.z.zip** from [Releases](../../releases/latest).
-2. Unzip it and drag **KEXP Cast** into Applications.
-3. Open it. It lives in the menu bar (look for **KEXP**).
+1. Download the latest **KEXP-Cast-x.y.z.dmg** from [Releases](../../releases/latest).
+2. Open it and drag **KEXP Cast** onto the Applications folder.
+3. Open KEXP Cast from Applications. It lives in the menu bar (look for KEXP’s
+   four-bar logo).
+
+(The .zip on each release is what the app’s updater uses. If you install from
+the zip instead, unzip it by double-clicking in Finder: some other unzip apps
+damage the app’s signature and macOS will refuse to open it.)
 
 Requires macOS 14 or later. Works on Apple Silicon and Intel Macs.
 
