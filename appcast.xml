@@ -5,6 +5,20 @@
     <link>https://github.com/samatsea/kexp-cast-releases</link>
     <description>Updates for KEXP Cast</description>
     <item>
+      <title>KEXP Cast 0.4.4</title>
+      <link>https://github.com/samatsea/kexp-cast-releases/releases/tag/v0.4.4</link>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 21 Oct 2026 02:35:16 GMT</pubDate>
+      <description>&lt;ul&gt;
+&lt;li&gt;Fix:** listening through several archive shows in a row could leave the timeline stuck once you reached a show that was still on air when you started (it kept showing the earlier show). The app now re-checks the schedule and moves on correctly.&lt;/li&gt;
+&lt;li&gt;Fix:** the Archive tab’s list for today now updates by itself, so shows that finish airing while the app is open appear without reopening the tab.&lt;/li&gt;
+&lt;li&gt;Right-click the menu bar icon** (or Control-click) for Play/Pause, Open in Window, Check for Updates, and Quit.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/samatsea/kexp-cast-releases/releases/download/v0.4.4/KEXP-Cast-0.4.4.zip" sparkle:edSignature="5kHKwStIifMvhhw/J+rvi5IYAefGBDNA6Gx4XN5S1Ay+ClG+xx+z3b7ETjolShCOEzxcekYncnWTfA4Eh4EwDw==" length="3574325" type="application/octet-stream" />
+    </item>
+    <item>
       <title>KEXP Cast 0.4.3</title>
       <link>https://github.com/samatsea/kexp-cast-releases/releases/tag/v0.4.3</link>
       <sparkle:version>10</sparkle:version>

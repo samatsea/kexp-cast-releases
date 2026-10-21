@@ -3,6 +3,17 @@
 Versions follow MAJOR.MINOR.PATCH. Each release also has a build number that
 only goes up; that's what the updater compares.
 
+## 0.4.4 — 2026-10-20
+
+- **Fix:** listening through several archive shows in a row could leave the
+  timeline stuck once you reached a show that was still on air when you started
+  (it kept showing the earlier show). The app now re-checks the schedule and
+  moves on correctly.
+- **Fix:** the Archive tab’s list for today now updates by itself, so shows that
+  finish airing while the app is open appear without reopening the tab.
+- **Right-click the menu bar icon** (or Control-click) for Play/Pause, Open in
+  Window, Check for Updates, and Quit.
+
 ## 0.4.3 — 2026-10-18
 
 - **Easier-to-see volume control:** a white knob, KEXP-yellow fill and brighter
