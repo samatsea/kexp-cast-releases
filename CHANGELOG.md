@@ -3,6 +3,11 @@
 Versions follow MAJOR.MINOR.PATCH. Each release also has a build number that
 only goes up; that's what the updater compares.
 
+## 0.5.3 — 2026-10-21
+
+- On the Radio tab, the colour from the album art now runs all the way up
+  behind the header and tab bar again.
+
 ## 0.5.2 — 2026-10-21
 
 - **Calmer tab bar:** the tab icons now stay in place. Picking a tab fades its

@@ -5,6 +5,18 @@
     <link>https://github.com/samatsea/kexp-cast-releases</link>
     <description>Updates for KEXP Cast</description>
     <item>
+      <title>KEXP Cast 0.5.3</title>
+      <link>https://github.com/samatsea/kexp-cast-releases/releases/tag/v0.5.3</link>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>0.5.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 21 Oct 2026 23:39:41 GMT</pubDate>
+      <description>&lt;ul&gt;
+&lt;li&gt;On the Radio tab, the colour from the album art now runs all the way up behind the header and tab bar again.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/samatsea/kexp-cast-releases/releases/download/v0.5.3/KEXP-Cast-0.5.3.zip" sparkle:edSignature="9QFyP4LrouitPnbsFjj9x0lmv81joGy769FktGG9yyzONjrRaRYthZYLCtlXLoH4C5TNtoweHYT0RxZr1jnaAQ==" length="3604209" type="application/octet-stream" />
+    </item>
+    <item>
       <title>KEXP Cast 0.5.2</title>
       <link>https://github.com/samatsea/kexp-cast-releases/releases/tag/v0.5.2</link>
       <sparkle:version>14</sparkle:version>
