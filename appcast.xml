@@ -5,6 +5,18 @@
     <link>https://github.com/samatsea/kexp-cast-releases</link>
     <description>Updates for KEXP Cast</description>
     <item>
+      <title>KEXP Cast 0.5.2</title>
+      <link>https://github.com/samatsea/kexp-cast-releases/releases/tag/v0.5.2</link>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 21 Oct 2026 23:30:47 GMT</pubDate>
+      <description>&lt;ul&gt;
+&lt;li&gt;Calmer tab bar:** the tab icons now stay in place. Picking a tab fades its name in where the icon was, instead of sliding everything over.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/samatsea/kexp-cast-releases/releases/download/v0.5.2/KEXP-Cast-0.5.2.zip" sparkle:edSignature="sF4VjhAYIkjvXt+G4+Ol2tW5zabfaX2FGfufA9Heb32QbdxRkdDAAXBVJmgOIzxtO+e2IWze21K6pnoy7n6UBg==" length="3602432" type="application/octet-stream" />
+    </item>
+    <item>
       <title>KEXP Cast 0.5.1</title>
       <link>https://github.com/samatsea/kexp-cast-releases/releases/tag/v0.5.1</link>
       <sparkle:version>13</sparkle:version>

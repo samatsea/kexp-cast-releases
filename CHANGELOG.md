@@ -3,6 +3,11 @@
 Versions follow MAJOR.MINOR.PATCH. Each release also has a build number that
 only goes up; that's what the updater compares.
 
+## 0.5.2 — 2026-10-21
+
+- **Calmer tab bar:** the tab icons now stay in place. Picking a tab fades its
+  name in where the icon was, instead of sliding everything over.
+
 ## 0.5.1 — 2026-10-21
 
 - **New tab bar:** Settings moved out of the header and into the tabs. The
