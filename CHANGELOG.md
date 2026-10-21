@@ -3,6 +3,12 @@
 Versions follow MAJOR.MINOR.PATCH. Each release also has a build number that
 only goes up; that's what the updater compares.
 
+## 0.5.4 — 2026-10-21
+
+- The menu bar equalizer is calmer: quiet passages now look quiet instead of
+  turning back up to full height after a few seconds, and only real peaks
+  reach the top.
+
 ## 0.5.3 — 2026-10-21
 
 - On the Radio tab, the colour from the album art now runs all the way up
