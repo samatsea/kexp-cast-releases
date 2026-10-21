@@ -5,6 +5,19 @@
     <link>https://github.com/samatsea/kexp-cast-releases</link>
     <description>Updates for KEXP Cast</description>
     <item>
+      <title>KEXP Cast 0.5.0</title>
+      <link>https://github.com/samatsea/kexp-cast-releases/releases/tag/v0.5.0</link>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 21 Oct 2026 18:42:06 GMT</pubDate>
+      <description>&lt;ul&gt;
+&lt;li&gt;New layout:** the tabs now sit at the top, just under the controls. The player lives on the Feed tab, and Archive, Starred, Downloads and Settings each get the whole window.&lt;/li&gt;
+&lt;li&gt;The Saved tab is now called Downloads.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/samatsea/kexp-cast-releases/releases/download/v0.5.0/KEXP-Cast-0.5.0.zip" sparkle:edSignature="s+IlUguJrn2ByUUlr71LU7psH3j6xHnfZzNNIm92X0Znu0jrENBGhQ8YvkfHRXu64Sqq5VgQz3rd/JP7o2WLBQ==" length="3580575" type="application/octet-stream" />
+    </item>
+    <item>
       <title>KEXP Cast 0.4.4</title>
       <link>https://github.com/samatsea/kexp-cast-releases/releases/tag/v0.4.4</link>
       <sparkle:version>11</sparkle:version>

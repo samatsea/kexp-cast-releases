@@ -3,6 +3,13 @@
 Versions follow MAJOR.MINOR.PATCH. Each release also has a build number that
 only goes up; that's what the updater compares.
 
+## 0.5.0 — 2026-10-21
+
+- **New layout:** the tabs now sit at the top, just under the controls. The
+  player lives on the Feed tab, and Archive, Starred, Downloads and Settings
+  each get the whole window.
+- The Saved tab is now called Downloads.
+
 ## 0.4.4 — 2026-10-20
 
 - **Fix:** listening through several archive shows in a row could leave the
