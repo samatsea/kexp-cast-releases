@@ -3,6 +3,12 @@
 Versions follow MAJOR.MINOR.PATCH. Each release also has a build number that
 only goes up; that's what the updater compares.
 
+## 0.5.1 — 2026-10-21
+
+- **New tab bar:** Settings moved out of the header and into the tabs. The
+  selected tab shows its name; the others are icons only.
+- The Feed tab is now called Radio.
+
 ## 0.5.0 — 2026-10-21
 
 - **New layout:** the tabs now sit at the top, just under the controls. The
