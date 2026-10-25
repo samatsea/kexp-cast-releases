@@ -3,6 +3,12 @@
 Versions follow MAJOR.MINOR.PATCH. Each release also has a build number that
 only goes up; that's what the updater compares.
 
+## 0.5.5 — 2026-10-25
+
+- **Finer volume control:** click the speaker icons at either end of the volume
+  slider to turn it down or up a little (5% per click). Works for this Mac and
+  for speakers.
+
 ## 0.5.4 — 2026-10-21
 
 - The menu bar equalizer is calmer: quiet passages now look quiet instead of

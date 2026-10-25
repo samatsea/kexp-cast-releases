@@ -5,6 +5,18 @@
     <link>https://github.com/samatsea/kexp-cast-releases</link>
     <description>Updates for KEXP Cast</description>
     <item>
+      <title>KEXP Cast 0.5.5</title>
+      <link>https://github.com/samatsea/kexp-cast-releases/releases/tag/v0.5.5</link>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>0.5.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Sun, 25 Oct 2026 21:43:21 GMT</pubDate>
+      <description>&lt;ul&gt;
+&lt;li&gt;Finer volume control:** click the speaker icons at either end of the volume slider to turn it down or up a little (5% per click). Works for this Mac and for speakers.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/samatsea/kexp-cast-releases/releases/download/v0.5.5/KEXP-Cast-0.5.5.zip" sparkle:edSignature="kdujESxM93s57bGOKFo3F7z98H4SldxWual37tBmxJCLNSSOzHkX9vnX/9DkeXFCvrpnonDFnXkddjLYW+XDAA==" length="3624967" type="application/octet-stream" />
+    </item>
+    <item>
       <title>KEXP Cast 0.5.4</title>
       <link>https://github.com/samatsea/kexp-cast-releases/releases/tag/v0.5.4</link>
       <sparkle:version>16</sparkle:version>
