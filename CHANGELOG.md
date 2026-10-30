@@ -3,6 +3,13 @@
 Versions follow MAJOR.MINOR.PATCH. Each release also has a build number that
 only goes up; that's what the updater compares.
 
+## 0.5.6 — 2026-10-30
+
+- **Outage notice:** when KEXP’s servers stop answering (or your Mac is
+  offline), a notice under the tabs says so, instead of the feed and archive
+  just sitting empty. The app keeps trying, and once KEXP is back the feed and
+  archive reload by themselves.
+
 ## 0.5.5 — 2026-10-25
 
 - **Finer volume control:** click the speaker icons at either end of the volume

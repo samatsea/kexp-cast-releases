@@ -5,6 +5,18 @@
     <link>https://github.com/samatsea/kexp-cast-releases</link>
     <description>Updates for KEXP Cast</description>
     <item>
+      <title>KEXP Cast 0.5.6</title>
+      <link>https://github.com/samatsea/kexp-cast-releases/releases/tag/v0.5.6</link>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>0.5.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 30 Oct 2026 16:06:36 GMT</pubDate>
+      <description>&lt;ul&gt;
+&lt;li&gt;Outage notice:** when KEXP’s servers stop answering (or your Mac is offline), a notice under the tabs says so, instead of the feed and archive just sitting empty. The app keeps trying, and once KEXP is back the feed and archive reload by themselves.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/samatsea/kexp-cast-releases/releases/download/v0.5.6/KEXP-Cast-0.5.6.zip" sparkle:edSignature="VjXJTIAe4HEUjF+eSSb1Oyqrxp2nHx/Cs06l6C7I/jpyFdynXh4IO9MXsdxnGf8Xn6pt751W6IdLYmkJIMUGCg==" length="3682483" type="application/octet-stream" />
+    </item>
+    <item>
       <title>KEXP Cast 0.5.5</title>
       <link>https://github.com/samatsea/kexp-cast-releases/releases/tag/v0.5.5</link>
       <sparkle:version>17</sparkle:version>
