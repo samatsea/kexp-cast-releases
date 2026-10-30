@@ -3,6 +3,13 @@
 Versions follow MAJOR.MINOR.PATCH. Each release also has a build number that
 only goes up; that's what the updater compares.
 
+## 0.5.7 — 2026-10-30
+
+- **Clearer outage state:** when KEXP isn’t answering, the Radio tab and the
+  Archive tab (below the day picker) say “KEXP Feed not available” with a
+  Retry button, in place of an empty feed. The other tabs are unaffected, and
+  the small notice bar and header spinner from 0.5.6 are gone.
+
 ## 0.5.6 — 2026-10-30
 
 - **Outage notice:** when KEXP’s servers stop answering (or your Mac is

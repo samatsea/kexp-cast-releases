@@ -5,6 +5,18 @@
     <link>https://github.com/samatsea/kexp-cast-releases</link>
     <description>Updates for KEXP Cast</description>
     <item>
+      <title>KEXP Cast 0.5.7</title>
+      <link>https://github.com/samatsea/kexp-cast-releases/releases/tag/v0.5.7</link>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>0.5.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 30 Oct 2026 16:22:46 GMT</pubDate>
+      <description>&lt;ul&gt;
+&lt;li&gt;Clearer outage state:** when KEXP isn’t answering, the Radio tab and the Archive tab (below the day picker) say “KEXP Feed not available” with a Retry button, in place of an empty feed. The other tabs are unaffected, and the small notice bar and header spinner from 0.5.6 are gone.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/samatsea/kexp-cast-releases/releases/download/v0.5.7/KEXP-Cast-0.5.7.zip" sparkle:edSignature="32mdg01mP6Z7E0/gbBb9YyJHT7SgBX80W4EqugRrOQ8mgsTKhSYXzlZHw2gredQZSK65ahQqd/vs5Aovp9rFBQ==" length="3680066" type="application/octet-stream" />
+    </item>
+    <item>
       <title>KEXP Cast 0.5.6</title>
       <link>https://github.com/samatsea/kexp-cast-releases/releases/tag/v0.5.6</link>
       <sparkle:version>18</sparkle:version>
