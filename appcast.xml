@@ -5,6 +5,19 @@
     <link>https://github.com/samatsea/kexp-cast-releases</link>
     <description>Updates for KEXP Cast</description>
     <item>
+      <title>KEXP Cast 0.5.8</title>
+      <link>https://github.com/samatsea/kexp-cast-releases/releases/tag/v0.5.8</link>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>0.5.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 30 Oct 2026 17:18:13 GMT</pubDate>
+      <description>&lt;ul&gt;
+&lt;li&gt;While Retry is trying to reach KEXP, the “no signal” icon animates: the slash lifts off and the antenna sends out waves until the attempt finishes.&lt;/li&gt;
+&lt;li&gt;Fix:** in the popped-out window, the header controls no longer crowd the top edge; they now sit level with the window buttons, with room above them.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/samatsea/kexp-cast-releases/releases/download/v0.5.8/KEXP-Cast-0.5.8.zip" sparkle:edSignature="PosRCM5vdBEAasmL5d11WJ1D/4FUA+q9Yp3ZtYXD/DKYlMHQsFJW3jqYRKB/rkj0ENMirawtvmVDYH4/uideDw==" length="3710718" type="application/octet-stream" />
+    </item>
+    <item>
       <title>KEXP Cast 0.5.7</title>
       <link>https://github.com/samatsea/kexp-cast-releases/releases/tag/v0.5.7</link>
       <sparkle:version>19</sparkle:version>

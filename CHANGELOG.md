@@ -3,6 +3,13 @@
 Versions follow MAJOR.MINOR.PATCH. Each release also has a build number that
 only goes up; that's what the updater compares.
 
+## 0.5.8 — 2026-10-30
+
+- While Retry is trying to reach KEXP, the “no signal” icon animates: the
+  slash lifts off and the antenna sends out waves until the attempt finishes.
+- **Fix:** in the popped-out window, the header controls no longer crowd the
+  top edge; they now sit level with the window buttons, with room above them.
+
 ## 0.5.7 — 2026-10-30
 
 - **Clearer outage state:** when KEXP isn’t answering, the Radio tab and the
