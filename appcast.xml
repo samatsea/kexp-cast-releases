@@ -5,6 +5,19 @@
     <link>https://github.com/samatsea/kexp-cast-releases</link>
     <description>Updates for KEXP Cast</description>
     <item>
+      <title>KEXP Cast 0.5.10</title>
+      <link>https://github.com/samatsea/kexp-cast-releases/releases/tag/v0.5.10</link>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.5.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 02 Nov 2026 17:49:35 GMT</pubDate>
+      <description>&lt;ul&gt;
+&lt;li&gt;Downloads keep their artwork:** album covers and show and host photos are saved with each download, so a downloaded show looks the same with no internet: covers in the feed, the blurred backdrop, and Control Center. Shows downloaded earlier fill in their artwork the next time they play.&lt;/li&gt;
+&lt;li&gt;A downloaded show keeps playing on the Radio tab, with its timeline and feed, even when KEXP or the internet is down.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/samatsea/kexp-cast-releases/releases/download/v0.5.10/KEXP-Cast-0.5.10.zip" sparkle:edSignature="cwacnHL5CXyjPO+izzsNV3F7/+/LUqbZOVJx/SiPKTXgCVDG4lRnrH7RXIJrOHYO8EKNu/Lf1Hl74bvDUnyjDw==" length="3808148" type="application/octet-stream" />
+    </item>
+    <item>
       <title>KEXP Cast 0.5.9</title>
       <link>https://github.com/samatsea/kexp-cast-releases/releases/tag/v0.5.9</link>
       <sparkle:version>21</sparkle:version>

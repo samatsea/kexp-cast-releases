@@ -3,6 +3,15 @@
 Versions follow MAJOR.MINOR.PATCH. Each release also has a build number that
 only goes up; that's what the updater compares.
 
+## 0.5.10 — 2026-11-02
+
+- **Downloads keep their artwork:** album covers and show and host photos are
+  saved with each download, so a downloaded show looks the same with no
+  internet: covers in the feed, the blurred backdrop, and Control Center.
+  Shows downloaded earlier fill in their artwork the next time they play.
+- A downloaded show keeps playing on the Radio tab, with its timeline and
+  feed, even when KEXP or the internet is down.
+
 ## 0.5.9 — 2026-11-02
 
 - **Downloaded shows play in KEXP Cast:** the play button on the Downloads tab
