@@ -3,6 +3,15 @@
 Versions follow MAJOR.MINOR.PATCH. Each release also has a build number that
 only goes up; that's what the updater compares.
 
+## 0.5.9 — 2026-11-02
+
+- **Downloaded shows play in KEXP Cast:** the play button on the Downloads tab
+  now plays the show right in the app (instead of opening Music), on this Mac
+  or your speakers, with the timeline, album art and song feed, and with
+  skipping song to song. Works offline too, once a show has been played or
+  downloaded with this version.
+- The spinner next to the Downloads tab is gone.
+
 ## 0.5.8 — 2026-10-30
 
 - While Retry is trying to reach KEXP, the “no signal” icon animates: the

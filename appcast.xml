@@ -5,6 +5,19 @@
     <link>https://github.com/samatsea/kexp-cast-releases</link>
     <description>Updates for KEXP Cast</description>
     <item>
+      <title>KEXP Cast 0.5.9</title>
+      <link>https://github.com/samatsea/kexp-cast-releases/releases/tag/v0.5.9</link>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>0.5.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 02 Nov 2026 17:35:47 GMT</pubDate>
+      <description>&lt;ul&gt;
+&lt;li&gt;Downloaded shows play in KEXP Cast:** the play button on the Downloads tab now plays the show right in the app (instead of opening Music), on this Mac or your speakers, with the timeline, album art and song feed, and with skipping song to song. Works offline too, once a show has been played or downloaded with this version.&lt;/li&gt;
+&lt;li&gt;The spinner next to the Downloads tab is gone.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/samatsea/kexp-cast-releases/releases/download/v0.5.9/KEXP-Cast-0.5.9.zip" sparkle:edSignature="JnlD31FTwuWGasvnV7cO9UEKBuvtBagX/hd8fEx2bd/DxBUiQPDuw2MmjMG1SBA8LdyTg+SlVFwaw44rgmUiAA==" length="3779722" type="application/octet-stream" />
+    </item>
+    <item>
       <title>KEXP Cast 0.5.8</title>
       <link>https://github.com/samatsea/kexp-cast-releases/releases/tag/v0.5.8</link>
       <sparkle:version>20</sparkle:version>
